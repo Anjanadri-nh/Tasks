@@ -1,0 +1,19 @@
+#gmail{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(245, 220, 226);
+    background-size: cover;
+    
+}
+
+#btn{
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    border-color: blue;
+    color: blue;
+}
+
+#text{
+    height: 270px;
+}

@@ -1,0 +1,81 @@
+div{
+  height: 300px;
+  width: 1000px;
+
+  display: inline-block;
+}
+#box1{
+height: 200px;
+width: 400px;
+background-color: red;
+}
+
+#box2{
+  height: 200px;
+  width: 400px;
+  background-color: rgb(0, 30, 255);
+  transition:box-shadow 500ms ;
+  transition: dely 5sec;
+  }
+div:hover{
+
+  box-shadow :500ms
+
+}
+
+
+  #box3{
+    height: 200px;
+    width: 400px;
+    background-color: rgb(255, 0, 242);
+    }
+    #box1{
+      background-image:url("msd.jpg") ;
+      
+      background-size: cover;
+      text-align: left;
+      border-radius: 2000px;
+    }
+    #box2{
+      background-image: url("virt.jpg");
+      background-size: cover;
+    }
+    #box3{
+      background-image:url("msd2.webp") ;
+      background-size: cover;
+    }
+   div{
+      height: 50px;
+      width: 800px;
+      display: inline-block;
+      background-color: black;
+      color: bisque;
+      
+      justify-content: center;
+     
+
+    }
+    p{
+      text-align: center;
+
+    }
+
+    a:hover{
+      color: gray;
+    }
+
+    background-image{
+      border-radius: 200px;
+    }
+    body{
+
+      position: fixed;
+    }
+
+    .my-text{
+      max-height: 100%;
+overflow: initial;
+      border:2px solid black ;
+    }
+
+   

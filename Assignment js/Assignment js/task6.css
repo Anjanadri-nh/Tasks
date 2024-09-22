@@ -1,0 +1,30 @@
+#box-1{
+height: 250px;
+width: 1300px;
+background-color: #00ffff;
+display: inline-block;
+margin-left: 90px; 
+margin-right: auto;
+
+}
+
+
+#box-2{
+    
+        height: 30px;
+        width: 200px;
+        background-color: rgb(19, 27, 27);
+        display: inline-block;
+      margin-right: 100px;        
+}
+
+
+#box-3{
+    
+    height: 30px;
+    width: 500px;
+    background-color: rgb(19, 27, 27);
+    display: inline-block;
+  margin-left: 100px;   
+  margin-right: 1s00px;     
+}

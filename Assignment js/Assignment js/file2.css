@@ -1,0 +1,26 @@
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+}
+#li{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+margin-top: 300px;
+}
+
+
+#red{
+    color: red;
+    text-align: center;
+}
+
+a{
+    display: block;
+    margin-left: 250px;
+    margin-right: auto;
+   
+}
